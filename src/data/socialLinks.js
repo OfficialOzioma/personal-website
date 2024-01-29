@@ -3,7 +3,7 @@ export const socialLinks = [
     id: 1,
     name: "Website",
     icon: "globe",
-    url: "https://www.stoman.me/",
+    url: "https://oziomadike.vercel.app/",
   },
   {
     id: 2,
